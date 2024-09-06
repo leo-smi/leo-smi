@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 * 🔭 I’m currently working on learning advanced Python.
-* 🌱 I’m currently learning:
+* 🌱 I’m also currently learning:
   * 🥇💂‍♂️🗽✍ Advanced english writing.
   * 🥇💂‍♂️🗽👂 Advanced english hearing.
   * 🥈💂‍♂️🗽📢 Intermediate english speaking. 
